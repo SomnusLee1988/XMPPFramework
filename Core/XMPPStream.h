@@ -4,7 +4,7 @@
 #import "GCDMulticastDelegate.h"
 
 
-@import KissXML;
+#import <KissXML/KissXML.h>
 @import CocoaAsyncSocket;
 
 //#import <KissXML/KissXML.h>
